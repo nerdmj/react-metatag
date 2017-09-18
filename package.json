@@ -1,6 +1,6 @@
 {
   "name": "react-metatag",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This react package maps Metatag from an API to key-value pair in order to render those in React way.",
   "main": "index.js",
   "scripts": {
