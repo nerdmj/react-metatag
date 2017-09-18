@@ -1,6 +1,6 @@
 {
   "name": "react-metatag",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This react package maps Metatag from an API to key-value pair in order to render those in React way.",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,21 @@
     "meta",
     "tags"
   ],
-  "author": "mnsh <er.manishjatwani@gmail.com>",
+  "author": {
+    "name": "nerdmj",
+    "email": "er.manishjatwani@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nerdmj/react-metatag/issues"
   },
-  "homepage": "https://github.com/nerdmj/react-metatag#readme"
+  "homepage": "https://github.com/nerdmj/react-metatag#readme",
+  "readme": "## React Metatag \n\nCURRENTLY ITS UNDER DEVELOPMENT.\n\n\nThis react package maps Metatag from an API to key-value pair in order to render those in React way.\n\n## Installation\n```npm install react-metatag```\n",
+  "readmeFilename": "README.MD",
+  "_id": "react-metatag@0.0.3",
+  "dist": {
+    "shasum": "ddfa1f7b50ff28f2b1a739469769e5ad80d2b391"
+  },
+  "_from": "react-metatag@",
+  "_resolved": "https://registry.npmjs.org/react-metatag/-/react-metatag-0.0.3.tgz"
 }
