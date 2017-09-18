@@ -1,0 +1,30 @@
+{
+  "name": "react-metatag",
+  "version": "0.0.1",
+  "description": "This react package maps Metatag from an API to key-value pair in order to render those in React way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nerdmj/react-metatag.git"
+  },
+  "keywords": [
+    "Drupal",
+    "React",
+    "D8",
+    "Metatag",
+    "Metadata",
+    "Drupal",
+    "8",
+    "meta",
+    "tags"
+  ],
+  "author": "mnsh <er.manishjatwani@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerdmj/react-metatag/issues"
+  },
+  "homepage": "https://github.com/nerdmj/react-metatag#readme"
+}
