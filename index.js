@@ -1,3 +1,3 @@
-exports.printMsg = function() {
-    console.log("This is a message from the React Metatag");
-  }
+module.exports = {
+  Metatag: require('./dist/components/metatag/index'),
+}
